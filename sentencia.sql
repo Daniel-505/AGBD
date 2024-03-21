@@ -1,0 +1,1 @@
+SELECT * FROM INHABITANT WHERE state  = 'friendly' and job LIKE '%smith'
